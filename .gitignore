@@ -287,6 +287,7 @@ DerivedData/
 .DS_Store
 .AppleDouble
 .LSOverride
+yarn.lock
 
 # Icon must end with two \r
 Icon
